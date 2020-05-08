@@ -1,7 +1,7 @@
-# positioning_and_floating_elements
+# Positioning and floating elements
 This assignment consists of making a clone of a New York Times article page.
 
-It's from the Odin Project - Microverse
+It's from the Odin Project - Microverse.
 
 ## Made with
 HTML5 and CSS3
