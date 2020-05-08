@@ -1,6 +1,5 @@
 # Positioning and floating elements
 This assignment consists of making a clone of a New York Times article page.
-
 It's from the Odin Project - Microverse.
 
 ## Made with
@@ -27,3 +26,5 @@ HTML5 and CSS3
 - Linkedin: [linkedin](https://www.linkedin.com/in/oscar-mier-072984196/)
 
 *Link to the [live demo](https://rawcdn.githack.com/voscarmv/positioning_and_floating_elements/2c860b0ee688250683a5233bbc1ec2607badfc97/index.html)*
+
+![Screen Shot](/media/Captura%20de%20pantalla%20de%202020-01-20%2018-43-51.png)
