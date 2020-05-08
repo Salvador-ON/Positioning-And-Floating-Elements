@@ -27,4 +27,4 @@ HTML5 and CSS3
 
 *Link to the [live demo](https://rawcdn.githack.com/voscarmv/positioning_and_floating_elements/2c860b0ee688250683a5233bbc1ec2607badfc97/index.html)*
 
-![Screen Shot](/media/Captura%20de%20pantalla%20de%202020-01-20%2018-43-51.png)
+![Screen Shot](/media/Screenshot_2020-05-08%20Space%20Ripples%20Reveal.png)
